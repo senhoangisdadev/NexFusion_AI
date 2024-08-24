@@ -23,7 +23,7 @@ Route: http://localhost:3000/text-to-speech
 
 ### Requirement
 
-You have to have **UPLOADTHING_SECRET** and **UPLOADTHING_APP_ID** at https://uploadthing.com/
+You need to have **UPLOADTHING_SECRET** and **UPLOADTHING_APP_ID** at https://uploadthing.com/
 
 First, run the development server:
 
