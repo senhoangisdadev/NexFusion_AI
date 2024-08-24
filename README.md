@@ -9,12 +9,14 @@ I have developed 2 models using Next.js and Hugging Face in this project:
 Model: https://huggingface.co/Xenova/detr-resnet-50
 
 Route: http://localhost:3000/image-classification
+
 ![Detect meow](https://github.com/user-attachments/assets/e9a1738d-ba09-4d25-92ca-ae4f0ca10164)
 
 ### Text to speech
 Model: https://huggingface.co/Xenova/speecht5_tts
 
 Route: http://localhost:3000/text-to-speech
+
 ![Text to speech](https://github.com/user-attachments/assets/58e7e5ab-1efd-4e33-8ee2-cdcb77187667)
 
 ## Getting Started
