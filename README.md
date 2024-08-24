@@ -25,6 +25,8 @@ Route: http://localhost:3000/text-to-speech
 
 You need to have **UPLOADTHING_SECRET** and **UPLOADTHING_APP_ID** at https://uploadthing.com/
 
+Then create a file /.env the same as /.env_example with you **UPLOADTHING KEY**
+
 First, run the development server:
 
 ```bash
